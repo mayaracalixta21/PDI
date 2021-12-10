@@ -4,7 +4,7 @@
 
   <p align="justify"><i>Utilizando o programa "exemplos/pixels.cpp" como referência, implemente um programa "regions.cpp". Esse programa deverá solicitar ao usuário as coordenadas de dois pontos P1 e P2 localizados dentro dos limites do tamanho da imagem e exibir que lhe for fornecida. Entretanto, a região definida pelo retângulo de vértices opostos definidos pelos pontos P1 e P2 será exibida com o negativo da imagem na região correspondente.<i></p>
   
-  ***[Solução](#)***
+  ***[Solução](#)*** <br>
   <p>Inicialmente abrimos a imagem em escala de cinza e atribuimos a variavel "imagem" :</p>
 
    ```Python
@@ -60,7 +60,7 @@
   
   <p align="justify"><i>Utilizando o programa exemplos/pixels.cpp como referência, implemente um programa trocaregioes.cpp. Seu programa deverá trocar os quadrantes em diagonal   na imagem. Explore o uso da classe Mat e seus construtores para criar as regiões que serão trocadas.<i></p>
   
-  ***[Solução](#)***
+  ***[Solução](#)*** <br>
  
 
 
