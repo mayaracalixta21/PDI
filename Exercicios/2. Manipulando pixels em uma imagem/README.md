@@ -45,4 +45,12 @@
   cv2.waitKey(0)
   ```
   
+  <p>Exemplo de saida :</p>
+  <p align="center">
+    <img alt="Biel" src="https://github.com/AugustMatt/PDI/blob/main/Exercicios/2.%20Manipulando%20pixels%20em%20uma%20imagem/2.21.PNG">
+    <img alt="Saída" src="https://github.com/AugustMatt/PDI/blob/main/Exercicios/2.%20Manipulando%20pixels%20em%20uma%20imagem/2.22.PNG">
+    <br>
+    <em>Figura de entrada (Biel.png)&emsp;&emsp;&emsp;&emsp;Figura de saída (Saída.png)</em>
+  </p>
+  
   
